@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+p.padding {
+  padding-left: 0px;
+}
+p.padding2 {
+  padding-left: 50%;
+}
+.hidden{
+  display: none;
+}
+.hidden1{
+  display: none;
+}
+.hidden2{
+  display: none;
+}
+.hidden3{
+  display: none;
+}
+
+#ac1card 
+{
+    
+    width: 40rem;
+    height: 1150px;
+    margin-left: 400px;
+}
+
+#ac1card a{
+  width:200px;
+  float: left;
+  margin-left: 200px;
+  
+  
+}
+#ac1card img{
+  
+  margin-left: 270px;
+  float: left;
+  
+}
+
+#btnicon img
+{
+  float: left;
+  margin-left: 5px;
+  height: 10px !important;
+}
+
+#ac1card h5{
+  position: initial;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+
+
+#ac2card 
+{
+    margin-left: 200px;
+    height: 1000px;
+    width: 1130px;
+    position: relative;
+    
+}
+
+#hidden p
+{
+  text-align: center;
+  font-size: large;
+  
+}
+
+#hidden1 p
+{
+  text-align: center;
+  font-size: large;
+}
+
+#hidden3 p
+{
+  text-align: center;
+  font-size: large;
+}
+
+#hidden2 p
+{
+  text-align: center;
+  font-size: large;
+}
