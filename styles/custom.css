@@ -1,0 +1,16 @@
+body{
+
+    background: whitesmoke;
+    
+}
+.primary{
+    
+    background: black !important;
+    
+    
+}
+.secondary{
+    background-color: gold !important;
+    color: blanchedalmond !important;
+    
+}
