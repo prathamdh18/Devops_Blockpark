@@ -1,0 +1,38 @@
+#Header h1
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important; 
+  color: aliceblue !important;
+  position: relative;
+  display: inline-block;
+  top: 18px;
+  left: 10px;
+  font-size: 25px;
+}
+  p
+ {
+   font-family: 'Courier New', Courier, monospace !important;
+   font-weight: bolder;
+   font-size: larger;
+ }
+ img
+ {
+   float: left;
+   height: 50px;
+   width: 55px;
+ }
+ a
+ {
+    position: relative;
+    top:10px;
+    margin-right: 25px;
+    float: right;
+    
+
+ }
+.link
+{
+  top: 10px;
+  height: 28px;
+  width: 28px;
+}
+
