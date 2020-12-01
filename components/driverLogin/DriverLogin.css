@@ -1,0 +1,27 @@
+
+#maind
+{
+  background-image: url("/img/d2.jpg");
+  background-size: contain;
+  
+}
+#icard
+{
+  margin-left: 35rem;
+  width: 18rem;
+  
+}
+#icard img
+{
+    height: 70px;
+    width: 70px;
+    align-content: center;
+    margin-left: 100px;
+    
+}
+#icard a
+{
+  position: inherit;
+  margin-left: 40px;
+  margin-right: unset;
+}
